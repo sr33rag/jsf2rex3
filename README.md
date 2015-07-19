@@ -1,0 +1,1 @@
+JSF 2.0 Resource Bundle example from Mkyong.com
